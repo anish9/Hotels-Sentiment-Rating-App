@@ -1,5 +1,5 @@
 # Sentiment-Rating-App 
-simple experimental project for building end-to-end Machine Learning Block
+simple novice experimental project for building end-to-end Machine Learning Block
 
 # About App
 
