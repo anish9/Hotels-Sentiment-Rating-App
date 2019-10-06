@@ -8,7 +8,7 @@ simple experimental project for building end-to-end Machine Learning Block
 - we reverse the logic by reading the text and giving it a rating by making text as independent and rating as dependent   variable 
 -  The trained "Rating Machine" is deployed using Flask API
 
-# Running demo server and masking request using curl
+## Running demo server and masking request using curl
 ```
 python3 api.py
 ```
