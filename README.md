@@ -26,8 +26,9 @@ python3 api.py
 ## send request using below curl command
 
 ```
- curl --request POST   --url http://localhost:5000/analyzetext   --header 'content-type: application/json'   --data '{
-        "message":"Excellent eating experience.. from walking in the door and being greeted by employee, seated and drink order                    taken, was maybe 5 minutes. Meal was served hot and excellent taste. Server was very friendly and helpful."
+curl --request POST   --url http://localhost:5000/analyzetext   --header 'content-type: application/json'   --data '{
+        "message":"Excellent eating experience.. from walking in the door and being greeted by employee, seated and drink order taken, was maybe 5 minutes. Meal was served hot and excellent taste. Server was very friendly and helpful."
+}'
 ```
 ## Output 
 
