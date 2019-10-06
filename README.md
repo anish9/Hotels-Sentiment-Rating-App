@@ -1,5 +1,5 @@
 # Restaurant-Sentiment-Rating-App
-simple experimental project for building a model and deploying it using Flask API
+simple experimental project for building end-to-end Machine Learning Block
 
 # About App
 
